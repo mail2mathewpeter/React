@@ -2,15 +2,15 @@
     "routes": [
         {
             "src": "/",
-            "dest": "/home"
+            "dest": "/"
         },
         {
             "src": "/login",
-            "dest": "/login"
+            "dest": "/"
         },
         {
             "src": "/dashboard",
-            "dest": "/dashboard"
+            "dest": "/"
         }
     ]
 }
